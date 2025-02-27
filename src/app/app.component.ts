@@ -8,6 +8,5 @@ import { RouterOutlet } from '@angular/router';
   styleUrl: './app.component.scss'
 })
 export class AppComponent {
-  title = 'csf';
-  e = 'sdadas'
+  title = 'my-app';
 }
